@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anant922&label=Profile%20views&color=0e75b6&style=flat" alt="anant922" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anant922" alt="anant922" /></a> </p>
+![animation](https://user-images.githubusercontent.com/87027291/141791602-9b2e7008-2c2f-43bd-80a1-e99e78b0bc39.gif)
+
 
 - 🔭 I’m currently working as intern at The Sparks Foundation **Payment Gateway Integration**
 
