@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anant922&label=Profile%20views&color=0e75b6&style=flat" alt="anant922" /> </p>
 
-![animation](https://user-images.githubusercontent.com/87027291/141791602-9b2e7008-2c2f-43bd-80a1-e99e78b0bc39.gif)
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87027291/141791602-9b2e7008-2c2f-43bd-80a1-e99e78b0bc39.gif" width="250" height="250"/>
+</p>
 - 🔭 I’m currently working as intern at The Sparks Foundation **Payment Gateway Integration**
 
 - 🌱 I’m currently learning **Node JS**
